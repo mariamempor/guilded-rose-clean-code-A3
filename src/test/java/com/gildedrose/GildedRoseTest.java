@@ -19,8 +19,7 @@ public class GildedRoseTest {
     } 
  
     // Referências aos novos testes unitários para garantir cobertura completa 
-    // (Esses testes isolados substituem a necessidade de approval para casos específicos) 
-    // Exemplo: NormalItemStrategyTest, AgedBrieStrategyTest, etc., são executados 
-separadamente. 
-    // Para rodar todos: execute 'mvn test' ou IDE JUnit runner. 
+    // (Os testes isolados substituem a necessidade de approval para casos específicos) 
+    // Ex: NormalItemStrategyTest, AgedBrieStrategyTest, etc., são executados separadamente. 
+   
 } 

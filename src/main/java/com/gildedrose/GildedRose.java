@@ -2,7 +2,7 @@ package com.gildedrose;
 import java.util.List;
 /**
 * Classe principal para atualizar a qualidade dos itens da loja Gilded Rose.
-* Usa Strategy Pattern para delegar comportamentos específicos.
+* Usa Strategy Pattern para comportamentos específicos.
 */
 public class GildedRose {
 private final List<Item> items;
