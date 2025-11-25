@@ -16,6 +16,8 @@ Este repositório contém o projeto desenvolvido como parte da Unidade Curricula
 | Matheus Alves Santana | 824144952 |
 | Matheus Henrique da Costa e Silva | 82410661 |
 
+#Observações:
+A documentação/ Relatório de toda a refatoração feita no projeto, bem como o PPTX da apresentação estão anexxadas na Branch de refatoracaoDoCodigo
 ---
 
 ##  Cronograma e Histórico de Commits Principais
@@ -32,3 +34,5 @@ A tabela abaixo detalha os commits relevantes e as atividades realizadas no repo
 | **10/11** | Commit 5 de Testes e Correção | **Correção de erros:** Correção dos Testes Unitários aplicados anteriormente |
 | **13/11** | Commit 6 de Testes | **Testes JUnit:** subida de testes unitários branch Testes_Unitarios |
 | **14/11** | Commit 7 de Refactor | **Refatoração Final 1:** Parte 1 da limpeza final e implementação de comentários úteis e documentação final |
+| **18/11** | Commit 8 de Refactor | ** Refatoração Final 2:** Parte 2 da limpeza final |
+
